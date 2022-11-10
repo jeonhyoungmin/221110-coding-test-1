@@ -4,4 +4,4 @@ const cone_volume1 = (radius:number, height:number):number | undefined => {
   }
 }
 
-console.log(cone_volume1(3,12))
+console.log(cone_volume1(3,2))
